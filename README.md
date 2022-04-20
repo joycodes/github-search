@@ -6,7 +6,6 @@
 [Joyce Nguttu](https://github.com/joycodes)
 
 ## Description
-Angular Web Github Search App that uses the Github API to generate Github users' details.
 
 Angular Web Github Search App that uses the Github API to generate Github users' details.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
