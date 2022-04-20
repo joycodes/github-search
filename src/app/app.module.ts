@@ -32,7 +32,7 @@ import { NgProgressHttpClientModule } from '@ngx-progressbar/http-client';
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    NgProgressModule.forRoot(),
+    NgProgressModule,
     NgProgressHttpClientModule,
   ],
   providers: [ProfileService],
