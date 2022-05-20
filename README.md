@@ -11,7 +11,7 @@ Angular Web Github Search App that uses the Github API to generate Github users'
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Screenshot
-![image](./src/assets/img/screenshot.png)
+![image](./src/assets/screenshot.png)
 
 ## Development server
 
